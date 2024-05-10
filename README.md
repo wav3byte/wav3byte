@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Pavel.
-- 👀 I’m interested in data and ML/AI.
+- 👀 I’m interested in data, machine learning and AI.
 
 <!---
 wav3byte/wav3byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
