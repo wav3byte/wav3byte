@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Pavel.
+- 👋 Hi, My name is Pavlo.
 - 👀 I’m interested in data, machine learning and AI.
 
 <!---
